@@ -3,7 +3,7 @@ Just another repository
 import numpy as np
 import matplotlib.pyplot as plt
 
-#venly samplet time at 200ms intervals
+#evenly sample time at 200ms intervals
 t = np.arange(0., 5., 0.2)
 
 #red dashes, blue squares and green triangles 
